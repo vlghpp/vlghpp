@@ -1,5 +1,8 @@
-## Bem-vindo(a) ao perfil do Henrique Patricio 😁
+# Bem-vindo(a) ao perfil do Henrique Patricio!
 
+## Sobre mim 😎
+<p>Me chamo Henrique, tenho atualmente 19, estudante de Análise e Desenvolvimento de Sistemas pelo IFSC, atualmente possuo conhecimento em tecnologias como: Java, JavaScript, Html, Css, Git, Github. Atualmente com vinculo à Intelbras no cargo de Desenvolvedor Back-End em estágio.
+</p>
  <div>
    <a href="https://github.com/vlghpp">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlghpp&layout=compact&langs_count=6&theme=tokyonight"/>
