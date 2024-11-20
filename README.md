@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao perfil do Henrique Patricio!
 
 ## Sobre mim 😎
-<p>Me chamo Henrique, tenho atualmente 19 anos, estudante de Análise e Desenvolvimento de Sistemas pelo IFSC, atualmente possuo conhecimento em tecnologias como: Java, JavaScript, Html, Css, Git, Github. Atualmente com vinculo à Digitro no cargo de Analista de Dados em estágio.
+<p>Me chamo Henrique, tenho atualmente 20 anos, estudante de Análise e Desenvolvimento de Sistemas pelo IFSC, atualmente possuo conhecimento em tecnologias como: Java, JavaScript, Html, Css, Git, Github. Atualmente com vinculo à Digitro no cargo de Analista de Dados em estágio.
 </p>
  <div>
    <a href="https://github.com/vlghpp">
