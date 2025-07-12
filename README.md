@@ -1,32 +1,25 @@
-# Bem-vindo(a) ao perfil do Henrique Patricio!
+# 👋 Olá, eu sou Henrique Patricio
 
-## Sobre mim 😎
-<p>Me chamo Henrique, tenho atualmente 20 anos, estudante de Análise e Desenvolvimento de Sistemas pelo IFSC, atualmente possuo conhecimento em tecnologias como: Java, Python, PostgreSQL, JavaScript, Html, Css, Git, Github. Atualmente com vinculo à Digitro no cargo de Analista de Dados em estágio.
-</p>
- <div>
-   <a href="https://github.com/vlghpp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlghpp&layout=compact&langs_count=6&theme=tokyonight"/>
+## 💻 Desenvolvedor | Solucionador de Problemas | Entusiasta de Tecnologia
 
-</div>
+Bem-vindo ao meu GitHub! Sou apaixonado por construir soluções robustas, escaláveis e centradas no usuário.
 
- ## Minhas tecnologias 👨‍💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
- 
-</div>
- 
- <br>
+### 🚀 Skills & Tecnologias
+- **Linguagens:** Python, JavaScript (ES6+), Java
+- **Frameworks/Bibliotecas:** Spring, Express, FastAPI
+- **Bancos de Dados:** MongoDB, PostgreSQL
+- **DevOps:** Docker, Git, Linux
+- **Web:** HTML, CSS
 
- ### Me siga nas redes abaixo!
+### 🌱 O que estou fazendo
+- Desenvolvendo aplicações backend escaláveis
+- Especialização em Springboot/Java
+- Buscando aperfeiçoamento em código limpo e arquitetura limpa
+- Explorando as novidades em tecnologias de nuvem e containers
+- Sempre aprendendo e experimentando novas ferramentas
+
+### 📫 Entre em contato
 <div> 
   <a href="https://instagram.com/vlghppp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-patricio-2882b4269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
-
+  <a href="https://www.linkedin.com/in/ohenriquepatricio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
